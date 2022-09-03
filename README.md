@@ -6,7 +6,7 @@
 <ul>
   <li>:muscle: A Fullstack Programmer</li>
   <li>:computer: currently using TypeScript / Java / React.js / Next.js / Tailwind.css</li>
-  <li>using AWS EC2 / RDS / noSQL / mySQL / Tauri as well 
+  <li>👆🏻 using AWS EC2 / RDS / noSQL / mySQL / Tauri as well 
   <li>🛠 currently refactoring 'Thumbs' project</li>
   <li>🧑🏽‍💻 currently working as a Backend developer</li>
 </ul>
