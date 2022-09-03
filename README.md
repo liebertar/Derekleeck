@@ -8,7 +8,6 @@
   <li>:computer: currently using TypeScript / Java / React.js / Next.js / Tailwind.css</li>
   <li>using AWS EC2 / RDS / Tauri as well 
   <li>currently refactoring the last project 'Thumbs Project' </li>
-  <li>
   
 </ul>
 </table>
