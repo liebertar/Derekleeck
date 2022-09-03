@@ -10,9 +10,4 @@
   <li>currently refactoring my last project 'Thumbs!' </li>
   <li>currently developing Baab service as a Backend developer</li>
 </ul>
-<ul>
-  <li>pre-developer career</li>
-  <li>International sales</li>
-  <li>E-commerce field</li>
-</ul>
 </table>
