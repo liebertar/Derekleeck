@@ -4,7 +4,7 @@
 
 <table>
 <ul>
-  <li>:muscle: A Fullstack Programmer</li>
+  <li>:muscle: A Fullstack Developer</li>
   <li>:computer: currently using TypeScript / Java / React.js / Next.js / Tailwind.css</li>
   <li>👆🏻 using AWS EC2 / RDS / noSQL / mySQL / Tauri as well 
   <li>🛠 currently refactoring 'Thumbs' project</li>
