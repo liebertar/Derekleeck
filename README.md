@@ -6,8 +6,8 @@
 <ul>
   <li>:muscle: A Fullstack Developer</li>
   <li>:computer: currently using TypeScript / Java / React.js / Next.js / Tailwind.css</li>
-  <li>:abacus: Nest / Express
-  <li>👆🏻 AWS EC2 / RDS / noSQL / mySQL / Tauri
+  <li>:abacus: Nest / Mongoose
+  <li>👆🏻 AWS EC2 / RDS / noSQL / mySQL / Tauri 
   <li>🛠 currently refactoring 'Thumbs' project</li>
   <li>🧑🏽‍💻 currently working as a Backend developer</li>
 </ul>
