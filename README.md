@@ -1,4 +1,4 @@
-<h1>🤚🏻 Hello My name is </h1>
+<h1>🏻 Hello My name is </h1>
 <h3>ChangKeun Lee :kr: </h3>
 <h3>Derek :us: </h3> 
 
