@@ -1,7 +1,3 @@
-<h1>Hello My name is </h1>
-<h3>ChangKeun Lee :kr: </h3>
-<h3>Derek :us: </h3> 
-
 <table>
 <ul>
   <li>:muscle: A Fullstack Developer</li>
